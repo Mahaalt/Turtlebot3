@@ -2,7 +2,7 @@
 
 First, go to this link: https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/, press at Quick Start Guide.
 
-choose your ROS version, I choose the melodic version.
+choose your ROS version, I chose the melodic version.
 
 To install the dependent ROS packages, use this command:
 
